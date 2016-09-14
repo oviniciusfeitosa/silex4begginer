@@ -1,4 +1,4 @@
-# Sikex4begginer
+# Silex4begginer
 
 ##About
 Easy way to learn a little about Silex and use this micro framework as service.
